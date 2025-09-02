@@ -1,0 +1,32 @@
+{
+	"intro": {
+		"start": "const achraf = ( name, patient ) =>",
+		"end": "Hello, my name is ashraf",
+		"speed": 60,
+		"deletionSpeed": 80,
+		"wrapper": "h2",
+		"startDelay": 1000,
+		"deleteDelay": 3000,
+		"restartDelay": 12000
+	},
+
+	"header": {
+		"name": "Achraf Chehboun",
+		"usp": "I architect robust systems and craft impactful solutions"
+	},
+
+	"paragraph": "Aspiring full-stack developer: Building expertise in robust backends and seamless frontends across multiple tech stacks. Agile enthusiast and perpetual learner, eager to craft scalable, impactful solutions.",
+
+	"buttons": {
+		"primary": {
+			"title": "Contact Me",
+			"url": "email: achrafchehboun@outlook.com",
+			"leaveSite": false
+		},
+		"secondary": {
+			"title": "LinkedIn",
+			"url": "https://www.linkedin.com/in/achraf-chehboun-59b049123/",
+			"leaveSite": "true"
+		}
+	}
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "project": "State of Dev",
+    "url": "https://github.com/AymaneTech/it-survey-in-spring-boot",
+    "repo": "public",
+    "descriptionTitle": "Professional Todo List App",
+    "description": "A robust todo list app designed to help you manage your tasks and stay organized. The app supports hierarchical task structuring, various task types, and detailed analytics, built using React native and node js.",
+    "imageOptions": [],
+    "images": [
+      {
+        "key": "mock-stack",
+        "hover": "left",
+        "h": "556",
+        "w": "556",
+        "url": "/img/projects/itlens-mock.png"
+      }
+    ],
+    "stack": [
+      { "key": "react", "name": "react native", "type": "devicon" },
+      { "key": "git", "name": "git", "type": "devicon" },
+      { "key": "github", "name": "github", "type": "devicon" },
+      { "key": "nodejs", "name": "node js", "type": "devicon" }
+    ]
+  },
+  {
+    "project": "The Perfect Chef: project management system ",
+    "url": "https://github.com/ChehAchraf/Prometi-filament",
+    "repo": "public",
+    "descriptionTitle": "project management system for chefs",
+    "description": "The Perfect Chef is a project management system for chefs, enabling them to track their projects and tasks while optimizing their productivity.",
+    "imageOptions": [],
+    "images": [
+      {
+        "key": "citronix-mock",
+        "hover": "left",
+        "h": "556",
+        "w": "556",
+        "url": "/img/projects/citronix-mock.png"
+      }
+    ],
+    "stack": [
+      { "key": "php", "name": "php", "type": "devicon" },
+      { "key": "laravel", "name": "laravel", "type": "devicon" },
+      { "key": "mysql", "name": "mysql", "type": "devicon" },
+      { "key": "git", "name": "git", "type": "devicon" },
+      { "key": "vscode", "name": "vscode", "type": "devicon" },
+      { "key": "figma", "name": "figma", "type": "devicon" },
+      { "key": "tailwindcss", "name": "tailwind", "type": "devicon" },
+      { "key": "github", "name": "github", "type": "devicon" }
+    ]
+  }
+]
